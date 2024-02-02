@@ -19,7 +19,7 @@ class Personal
     
     int age =18;
 
-    string university =" VNU -UET";
+    string university =" VNU - UET";
 
 
 
