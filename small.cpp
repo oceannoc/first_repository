@@ -16,6 +16,8 @@ int main()
    cout<<"Hi "<< a; 
    cout<<"\n"<<"Have a nice day! ~~";
 
+   cout<<"\nMission passed!!! ";
+
     
 
 
