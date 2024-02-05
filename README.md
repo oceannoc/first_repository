@@ -2,7 +2,7 @@
 # hello_everyone 
 # my_introduction
 
- this is my first github
+ this is my first GitHub
 
 
  Hello 
