@@ -1,0 +1,22 @@
+/ a[::-1] đảo ngược mảng a
+
+
+/ a=str(a) chuyển a thành chuỗi 
+
+/print(f"{a:02d}") in ra a với 2 chữ số, nếu a có 1 chữ số thì thêm 0 ở trước
+
+/print(f"{a:0>2d}") in ra a với 2 chữ số, nếu a có 1 chữ số thì thêm 0 ở sau
+
+/print(f"{a:0<2d}") in ra a với 2 chữ số, nếu a có 1 chữ số thì thêm 0 ở trước
+
+/print(f"{a:0^3d}") in ra a với 3 chữ số, nếu a có 1 chữ số thì thêm 0 ở trước và sau
+        // số chữ số 0 thêm vào sau luôn >= số chứ số 0 thêm vào trước
+
+
+
+// python có sẵn xử lý số nguyên lớn, không cần phải dùng thư viện nào khác 
+
+
+
+
+

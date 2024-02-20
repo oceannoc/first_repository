@@ -1,0 +1,35 @@
+// int a[10] = {0}; tạo ra mang a co 10 phan tu, moi phan tu co gia tri 0
+    // không dùng với vector
+
+
+#define  pi 3.141592653589793 
+
+// string a;
+    a.front(); // trả về phần tử đầu tiên của vector
+    a.back(); // trả về phần tử cuối cùng của vector
+
+    a.begin()   // trả về iterator đầu tiên của vector
+    a.end()     // trả về iterator cuối cùng của vector
+    string (5,'0') // tạo chuỗi 5 số 0
+
+    a.erase(0,3) // xóa 3 phần tử từ vị trí 0
+
+
+// vector<int> a(5,1); tạo ra vector a có 5 phần tử, mỗi phần tử có giá trị 1
+    vector<int> a(b, b+10); // tạo ra vector a từ mảng b, có 10 phần tử
+
+
+// upper_bound(a.begin(), a.end(), 5) trả về iterator trỏ đến phần tử đầu tiên lớn hơn 5
+        // must be sorted if not, the result is undefined
+
+// lower_bound(a.begin(), a.end(), 5) trả về iterator trỏ đến phần tử đầu tiên không nhỏ hơn 5
+        // must be sorted if not, the result is undefined
+
+//lambda function 
+    [] (int x,int y) {cout<< x+y;} (4 ,5)      ; // in ra 9
+    [] : capture list // list of external variables that the lambda function can access
+    (int x,int y) : parameter list
+    {cout<< x+y;} : body
+    (4 ,5) : argument list
+
+    //  int x =5 ;[x] (int y) {cout<< x+y;} (5)      ; // in ra 10
