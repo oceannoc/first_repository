@@ -1,6 +1,4 @@
-# first_repository
-# hello_everyone 
-# my_introduction
+
 
 This is GitHub
 
