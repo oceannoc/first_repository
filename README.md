@@ -3,10 +3,9 @@
 This is my GitHub
 
 
-    // from oceanic ~~ ulock
+    // from ulock and ocean
 
 
- Thanks for watching !!
 
 
 
