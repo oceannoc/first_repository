@@ -4,7 +4,8 @@ This is my GitHub
 
 
     // from ulock and ocean
-    // git clone 
+    // git clone from github
+    
 
 
 
